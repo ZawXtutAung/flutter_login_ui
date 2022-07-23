@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_splash/route.dart';
 import 'package:flutter_splash/screen/home.dart';
 import 'package:flutter_splash/screen/login.dart';
+import 'package:flutter_splash/screen/register.dart';
 import 'package:flutter_splash/screen/splash.dart';
 
 void main() => runApp(MyApp());
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
         Routes.splash: (context) => Splash(),
         Routes.login: (_) => Login(),
         Routes.home: (_) => Home(),
+        Routes.register: (_) => Register(),
       },
     );
   }

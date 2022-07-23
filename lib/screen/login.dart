@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_splash/route.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:lottie/lottie.dart';
 
@@ -31,7 +32,7 @@ class _LoginState extends State<Login> {
                     left: 0,
                     child: Card(
                       child: Padding(
-                        padding: EdgeInsets.fromLTRB(20, 5, 20, 5),
+                        padding: EdgeInsets.fromLTRB(50, 6, 50, 6),
                         child: Text('Login',
                             style: TextStyle(
                                 fontWeight: FontWeight.bold,
@@ -49,9 +50,15 @@ class _LoginState extends State<Login> {
             const SizedBox(height: 30),
             socialIcons(),
             const SizedBox(height: 30),
-            const Center(
-              child: Text('Regester',
-                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
+            Center(
+              child: InkWell(
+                onTap: () {
+                  Navigator.pushNamed(context, Routes.register);
+                },
+                child: const Text('Regester',
+                    style:
+                        TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
+              ),
             ),
           ],
         ),
