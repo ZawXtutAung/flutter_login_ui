@@ -23,8 +23,7 @@
   alt="Alt text"
   title="Optional title" 
   style="display: inline-block; 
-  margin: 0 auto;
-  max-width: 300px"height="280" width="150" >
+  margin: 0 auto;max-width: 300px"height="280" width="150" >
 
 
 For help getting started with Flutter development, view the
