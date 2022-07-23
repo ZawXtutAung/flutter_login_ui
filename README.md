@@ -16,15 +16,15 @@
   src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/login.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px"  height="250" width="100">
+  style="display: inline-block; margin: 0 auto; max-width: 200px"  height="250" width="150">
 
   <img
   src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/splash.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px" height="250" width="100">
+  style="display: inline-block; margin: 0 auto; max-width: 200px" height="250" width="150">
 
-  
+
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
