@@ -12,8 +12,8 @@
 - [pub: font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
 - [pub: lottie](https://pub.dev/packages/lottie)
 
-<img  width="250" height="480" src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/login.png/100/100">
-<img   width="250" height="480" src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/splash.png/100/100">
+<img  width="250" height="480" src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/login.png">
+<img   width="250" height="480" src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/splash.png">
 <!-- 
 <img
   src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/login.png"
