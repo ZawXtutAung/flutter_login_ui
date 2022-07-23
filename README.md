@@ -16,13 +16,16 @@
   src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/login.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"  height="280" width="150" ;align="left">
+  style="display: inline-block; margin: 0 auto; max-width: 300px"  height="280" width="150" >
 
-  <img
+  <img 
   src="https://github.com/ZawXtutAung/flutter_login_ui/blob/master/ScreenShort/splash.png"
   alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px" height="280" width="150";align="right">
+  title="Optional title" 
+  style="display: inline-block; 
+  margin: 0 auto;
+  
+  max-width: 300px"height="280" width="150" >
 
 
 For help getting started with Flutter development, view the
